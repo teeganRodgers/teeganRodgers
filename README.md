@@ -8,7 +8,7 @@ Below are some of the projects I've been working on.
 <h2>📚 Academic Projects:</h2>
 <ul>
 <li>
-<b><a href="[https://www.google.com/search?q=https://github.com/teeganRodgers/graph-pathfinding-java](https://github.com/teeganRodgers/Graph-Algorithms-Implementing-BFS-and-Dijkstra-s-Algorithm)">Graph Pathfinding Algorithms (Java)</a></b>
+<b><a href="https://www.google.com/search?q=https://github.com/teeganRodgers/graph-pathfinding-java">Graph Pathfinding Algorithms (Java)</a></b>
 <br>
 <i>An implementation of BFS and Dijkstra's algorithm to find the shortest path in weighted and unweighted graphs. This project demonstrates a practical understanding of core data structures and algorithms used in AI and network routing.</i>
 </li>
@@ -23,13 +23,13 @@ Below are some of the projects I've been working on.
 <h2>🚀 Personal Projects:</h2>
 <ul>
 <li>
-<b><a href="[https://github.com/teeganRodgers/Note-Taking-Web-App](https://github.com/teeganRodgers/Note-Taking-Web-App)">Full-Stack Note-Taking Web App</a></b>
+<b><a href="https://github.com/teeganRodgers/Note-Taking-Web-App">Full-Stack Note-Taking Web App</a></b>
 <br>
 <i>A full-stack web application built from scratch with Python, Flask, and SQLite. It features secure user authentication and allows users to create, manage, and delete their own private notes.</i>
 </li>
 <br>
 <li>
-<b><a href="[https://github.com/teeganRodgers/Basic-Pixel-Monitor-Bot](https://github.com/teeganRodgers/Basic-Pixel-Monitor-Bot)">Basic Pixel Monitor Bot</a></b>
+<b><a href="https://github.com/teeganRodgers/Basic-Pixel-Monitor-Bot">Basic Pixel Monitor Bot</a></b>
 <br>
 <i>A Python automation script that plays a web-based reaction time game. It achieves superhuman scores by programmatically monitoring on-screen pixel color changes and triggering an instant mouse click.</i>
 </li>
